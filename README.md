@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/vung-nguyen-346979286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vung-nguyen-346979286" height="30" width="40" /></a>
 <a href="https://fb.com/vungnv99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vungnv99" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@vungnguyenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vungnguyenn" height="30" width="40" /></a>
-<a href="https://discord.gg/en_vy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="en_vy9" height="30" width="40" /></a>
+<a href="https://discord.com/users/en_vy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="en_vy9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
