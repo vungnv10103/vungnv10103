@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vung Nguyen</h1>
-<h3 align="center">A passionate mobile developer from Viet Nam</h3>
+<h3 align="center">A mobile developer from Viet Nam</h3>
 
 - 🔭 My personal project [Food App Client](https://github.com/vungnv10103/FoodYum)
 
