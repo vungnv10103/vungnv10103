@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vung Nguyen</h1>
 <h3 align="center">A mobile developer from Viet Nam</h3>
 
-- 🔭 My personal project [Food App Client](https://github.com/vungnv10103/FoodYum)
+- 🔭 My personal project [Stech Server](https://github.com/vungnv10103/ServerDATN.git)
 
-- 🔭 My personal project [Food App Merchant](https://github.com/vungnv10103/Food-App-Merchant)
+- 🔭 My personal project [Stech Client](https://github.com/vungnv10103/ShopStech.git)
 
-- 🔭 My personal project [Music Player](https://github.com/vungnv10103/MusicPlayer)
+- 🔭 My personal project [ReactNative FoodApp](https://github.com/vungnv10103/ReactNative_Internship_FoodApp.git)
 
 -  🌱 I’m currently learning **Javascript, React Native**
 
@@ -16,9 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vung-nguyen-346979286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vung-nguyen-346979286" height="30" width="40" /></a>
-<a href="https://fb.com/vungnv99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vungnv99" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vung.tc10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vungnv99" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@vungnguyenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vungnguyenn" height="30" width="40" /></a>
-<a href="https://discord.com/users/en_vy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="en_vy9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
